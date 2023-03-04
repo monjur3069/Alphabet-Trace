@@ -1,0 +1,614 @@
+[
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_news.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\news.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_reload.png.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_reload.png"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_v.xml.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\layout\\activity_v.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ftrace.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\ftrace.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_r.mp3.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\raw\\r.mp3"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newz.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\newz.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_startnum.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\startnum.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_strace.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\strace.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_o.xml.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\layout\\activity_o.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newe.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\newe.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_projectanim.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\projectanim.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_j.mp3.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\raw\\j.mp3"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_in.xml.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newl.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\newl.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_g.xml.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\layout\\activity_g.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_y.mp3.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\raw\\y.mp3"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ptrace.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\ptrace.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_speaker.png.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_speaker.png"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_c.mp3.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\raw\\c.mp3"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_w.xml.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\layout\\activity_w.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mtrace.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\mtrace.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bcopy.png.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\bcopy.png"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_p.xml.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\layout\\activity_p.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newt.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\newt.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wtrace.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\wtrace.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_b.mp3.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\raw\\b.mp3"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_s.mp3.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\raw\\s.mp3"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newf.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\newf.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_z.mp3.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\raw\\z.mp3"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_i.mp3.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\raw\\i.mp3"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vtrace.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\vtrace.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newm.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\newm.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_backgroundmusic.mp3.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\raw\\backgroundmusic.mp3"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_otrace.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\otrace.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jtrace.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\jtrace.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newc.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\newc.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_e.mp3.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\raw\\e.mp3"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_speaker.png.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_speaker.png"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_t.xml.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\layout\\activity_t.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_w.mp3.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\raw\\w.mp3"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_main_activity_menu.xml.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\menu\\main_activity_menu.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_reload.png.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_reload.png"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_q.xml.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\layout\\activity_q.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_b.xml.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\layout\\activity_b.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newn.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\newn.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ltrace.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\ltrace.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newq.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\newq.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_h.mp3.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\raw\\h.mp3"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_t.mp3.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\raw\\t.mp3"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_e.xml.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\layout\\activity_e.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ctrace.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\ctrace.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_n.xml.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\layout\\activity_n.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_htrace.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\htrace.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newk.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\newk.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_qtrace.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\qtrace.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_q.mp3.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\raw\\q.mp3"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_k.mp3.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\raw\\k.mp3"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ztrace.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\ztrace.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custome_button.xml.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\custome_button.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_speaker.png.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_speaker.png"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_k.xml.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\layout\\activity_k.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_y.xml.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\layout\\activity_y.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newy.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\newy.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_h.xml.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\layout\\activity_h.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newh.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\newh.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_spinner.xml.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\custom_spinner.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_n.mp3.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\raw\\n.mp3"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_tfe_dc_activity_main.xml.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\layout\\tfe_dc_activity_main.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_atrace.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\atrace.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_g.mp3.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\raw\\g.mp3"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_tfl2_logo.png.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable-xxhdpi\\tfl2_logo.png"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_d.xml.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\layout\\activity_d.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_z.xml.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\layout\\activity_z.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_utrace.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\utrace.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newo.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\newo.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dtrace.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\dtrace.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_tfl2_logo_dark.png.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable-xxhdpi\\tfl2_logo_dark.png"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_a.jpg.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\a.jpg"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_xtrace.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\xtrace.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newv.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\newv.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_s.xml.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\layout\\activity_s.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ktrace.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\ktrace.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\font_aclonica.xml.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\font\\aclonica.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icn_chevron_down.png.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable-xxhdpi\\icn_chevron_down.png"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_l.xml.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\layout\\activity_l.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_spinner_layout.xml.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\layout\\spinner_layout.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newb.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\newb.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_o.mp3.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\raw\\o.mp3"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_speaker.png.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_speaker.png"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_reload.png.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_reload.png"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_c.xml.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\layout\\activity_c.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newp.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\newp.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_v.mp3.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\raw\\v.mp3"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newi.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\newi.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_f.mp3.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\raw\\f.mp3"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_neww.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\neww.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_alphabet.jpg.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\alphabet.jpg"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ntrace.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\ntrace.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_reload.png.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_reload.png"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_etrace.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\etrace.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newj.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\newj.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ttrace.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\ttrace.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ytrace.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\ytrace.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_m.xml.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\layout\\activity_m.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_f.xml.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\layout\\activity_f.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_p.mp3.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\raw\\p.mp3"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newu.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\newu.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_l.mp3.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\raw\\l.mp3"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_j.xml.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\layout\\activity_j.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_i.xml.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\layout\\activity_i.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_a.mp3.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\raw\\a.mp3"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gtrace.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\gtrace.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_m.mp3.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\raw\\m.mp3"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_x.xml.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\layout\\activity_x.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newg.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\newg.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newx.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\newx.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_start.xml.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\layout\\activity_start.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_speaker.png.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_speaker.png"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_x.mp3.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\raw\\x.mp3"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btrace.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\btrace.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_u.xml.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\layout\\activity_u.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newd.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\newd.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_r.xml.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\layout\\activity_r.xml"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_reload.png.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_reload.png"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_u.mp3.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\raw\\u.mp3"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_itrace.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\itrace.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icn_chevron_up.png.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable-xxhdpi\\icn_chevron_up.png"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_d.mp3.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\raw\\d.mp3"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rtrace.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\rtrace.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newa.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\newa.gif"
+    },
+    {
+        "merged": "F:\\Kotlin\\AlphabetTracer-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newr.gif.flat",
+        "source": "F:\\Kotlin\\AlphabetTracer-master\\app\\src\\main\\res\\drawable\\newr.gif"
+    }
+]
